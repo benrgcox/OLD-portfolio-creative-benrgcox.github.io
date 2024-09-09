@@ -10,3 +10,5 @@ github_username: benrgcox
 
 # Build settings
 markdown: kramdown
+
+theme: lanyon
